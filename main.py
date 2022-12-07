@@ -1,0 +1,16 @@
+a = input("První Číslo ")
+b = input("Druhý Číslo? ")
+c = input("Třetí Číslo? ")
+d = input("čtvrté Číslo? ")
+e = input("Páté Číslo? ")
+print(" Tvůj výsledek je:")
+print(int(a) + int(b) + int(c) + int(d) + int(e))
+
+print("víc tady :toto se spojí s minulým výsledkem: ")
+f = input("První Číslo ")
+h = input("Druhý Číslo? ")
+l = input("Třetí Číslo? ")
+s = input("čtvrté Číslo? ")
+z = input("Páté Číslo? ")
+
+print(int(a) + int(b) + int(c) + int(d) + int(e) + int(f) + int(h) + int(l) + int(s) + int(z))
